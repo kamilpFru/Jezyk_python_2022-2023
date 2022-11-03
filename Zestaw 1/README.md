@@ -29,7 +29,8 @@ to powinno się wypisać (proszę tak to sformatować):
 
 ```text
 4407 = 3*13*113
-130
+13041599400 = 2^3*3^4*5^2*805037
+```
 
 ## Zadanie 3
 
